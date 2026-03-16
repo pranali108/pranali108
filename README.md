@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Pranali Chougule
 
-<!--
-**pranali108/pranali108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst passionate about turning data into insights.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+Python | SQL | Power BI | Excel | Data Visualization | Pandas | Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Projects
+• Customer Shopping Behavior Analysis  
+• Digital Marketing Sales Dashboard  
+• E-Commerce Customer Data Analysis
+
+## 📈 Tools & Technologies
+Python  
+SQL  
+Power BI  
+Excel  
+Jupyter Notebook
+
+## 📫 Connect With Me
+LinkedIn:www.linkedin.com/in/pranali-chougule-901452265
+GitHub: https://github.com/pranali108
